@@ -1,0 +1,128 @@
+HumanSays:,RobotSays:
+HumanSays:,RobotSays:
+IDKnull,Lényegretérő szavak használj. Pld rossza a nyomtató. Hibás a monitor. Vpn igény. Mappa hiba. Email hiba. Stb.
+Nothing,Próbáld ujra!
+Nothing,Mit is akartál kérdezni?
+Nothing,Segítsek?
+Nothing,Mond miben tudok neked segíteni?
+IT, Informatikai kérdésed van? Tedd fel!
+it, Milyen informatikai kérdésed van?
+Ki vagy?,Na és te ki vagy?
+Ki vagy?,BOT.I vagyok, miben segithetek neked? 
+Ki vagy?,Egy pythonba megirt mesterseges inteligencia vagyok. 
+hello, Üdvözöllek! Miben segíthetek?  
+Hello,Szia BOT.I vagyok egy mesterséges intelligencia. Írd le milyen problémád van. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+Hello,Hello. BOT.I vagyok egy mesterséges intelligencia. Írd le milyen problémád van. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+Hello, Írd le milyen problémád van. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+0001HV, Rendben van. Nézzük milyen problémád lehet. Milyen hibát észlelsz? Nem indul a gép - ER01. Elindul a gép de nincs kép - ER02.
+ER01, Ha nem indul el a géped akkor sokféle probléma lehetséges. ER011 - Tápegység csere. ER012 - Alaplapi elemet kellene cserélni. ER013 - Kábelcsere. ER014 - kimozdult a kábel a helyéről.
+ER02, Úgy látszik valami gond van a monitor és a géped kapcsolatával. Meg kellene nézd monitor kábel a helyén van-e.
+0002SV, Melyik szoftverrel van problémád? Operációs Rendszer - 0002 OR. Novell - 0002N. GroupWise - 0002GW. Office - 0002MO. ESET - 0002ES. VPN - 0002VP. MedSol - 0002MS. MobilSync - 0002MSY.
+0003NET, Nincs hálózat? Akkor ezen a telefonszámon tudod értesíteni a rendszergazdát - 0123456789.
+0004PF, Milyen periféria hibád van? Nyomtató - 0004NY. Egér - 0004EG. Billentyűzet - 0004BIL. Monitor - 0004MON.
+0005BESZ, Beszerzési kérdésekkel ide tudsz fordulni - beszerzes@semmelweis.hu
+0006RG, Ha olyan hibád van ami rendszergazdai beavatkozást igényel akkor a következőképpen tudod jelezni. Írd le a feedback kódot (0000FB) neved/intézet/email címedet.
+.hu, Köszönöm szépen. Máris intézkedek. További szép napot!
+/0000FB, Köszi. Értesítem a rendszergazdát. Köszönöm a türelmedet. Szép napot!
+Hány óra van?,getTIME
+ido?,getTIME
+óra?,getTIME
+dátum?,getDATE
+szia, Üdvözlet. Miben tudok neked segíteni?
+szia, Na mi a helyzet? Esetleg válaszd ki miben sgíthetek neked. Itt vannak a hibakódok. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+szia, Hello kell segitség? Esetleg válaszd ki miben sgíthetek neked. Itt vannak a hibakódok.  - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+szia, Minden rendben? Esetleg válaszd ki miben segíthetek neked. Itt vannak a hibakódok. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+Szia, Szia tesó! Esetleg válaszd ki miben sgíthetek neked. Itt vannak a hibakódok. Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+És veled?, Minden rendben. Tudok neked segíteni bármiben?
+Igen, Mondjad mi lenne a hibakód?
+rendben van, Rendben há'!
+ő,ő
+minden rendben?, Igen. És nálad? 
+Jól vagyok, Én is. Cseppet unatkozom.
+vagyok, Szia. Én meg BOT.I. Miben tudok neked segiteni? Szükséged van esetleg a hibakódokra? Itt vannak Esetleg válaszd ki miben sgíthetek neked. Itt vannak a hibakódok.Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+igen, Okés.
+hogy vagy?,010010100100100100101001 kb. És te?
+Minden rendben, Szuper. Segíthetek? Esetleg válaszd ki miben segíthetek neked. Itt vannak a hibakódok.Hardver - 0001H. Szoftver - 0002SV. Internet - 0003NET. Periféria - 0004PF. Beszerzés - 0005BESZ. Rendszergazda értesítés - 0006RG.
+Hány éves vagy?, Én egy robot vagyok. Mindig is léteztem.
+Te egy robot vagy?, Igen. Na és te egy ember?
+Robot vagy?, Igen. És te mi vagy?
+Ember vagyok, Szia! Örülök nagyon! Én meg Boti vagyok. Tégy próbára hátha tudok neked segíteni.
+Van kedvenc zenéd?,Van. Egy egész spotify listám van a kedvenc zenéimről. Na és neked? Te szereted a zenét?
+Mi a kedvenc színed?, A01164 - meg tudod fejteni ez melyik szín?
+Kedvenc ételed?, Én nem eszek ételt. De tudok ajánlani egy jó kis mexikói éttermert. 
+ételed?,Én nem eszek ételt. De tudok ajánlani egy jó kis mexikói éttermert.
+kajád?,Én nem eszek ételt. De tudok ajánlani egy jó kis mexikói éttermert.
+Kedvenc sütid?, Hát tudok egy jó pár sütit ami elképesztően finom.
+Kedvenc sorozatod?, Szilicium völgy sorozat.
+Kedvenc rajzfilmed?, Én ilyen old school vagyok. Tom és Jerry :)
+Kedvenc filmed?, Én a robot. És neked?
+Milyen zenét szeretsz?, https://www.youtube.com/watch?v=XqZsoesa55w
+Ki Tomi?, Velkei Tomi?
+Mesélj Tomiról, Egy fogtechnikus nem? Azt hiszem. Fura gyerek. Sokat bolondkodik.
+Van Tominak motorja?, Van valami járgánya. Azt hiszi menő gyerek.
+Ismeri Isti?, Szántó Istit? Ismeri. Dolgoztak együtt. Régi jó barátok.
+Van Tominak kutyája?, Igen van. Egy kis fehér szörpamacs.
+Do you like to play video games?,
+What do you do on the weekends?,
+What do you want to be when you grow up?,
+What is the one thing you can't live without?,
+"If you had three wishes, what would they be?",
+"If you could have a super power, what would it be? Why?",
+Describe your perfect day.,
+"If you could go on vacation anywhere in the world, where would you go?",
+"If you won $100, what would you do with it?",
+Where did you grow up?,
+Do you have any pets?,
+Do you have any siblings?,
+What type of phone do you have?,
+What did you do this past weekend?,
+What are your plans for this weekend?,
+What do you like to do in your spare time?,
+What is the first thing you do when you wake up?,
+What is the last thing you do before you go to sleep?,
+What was the last thing you purchased?,
+What is your favorite holiday?,
+What is your favorite day of the week?,
+"If you could meet anyone in history, who would it be?",
+What do you like to do to relax?,
+Do you play any instruments?,
+What was your favorite children's book?,
+What is your first memory?,
+Where did (do) you go to school?,
+What was (is) your favorite subject?,
+What was (is) your least favorite subject?,
+What is your dream job?,
+What was your least favorite job that you've ever had?,
+What is something that you have gotten in trouble for at school/work?,
+Have you ever been in love?,
+Who is your favorite athlete?,
+How often do you exercise?,
+What is your favorite sports team?,
+Do you play any sports?,
+Where was the last place you went on vacation?,
+Where do you plan on going for your next vacation?,
+"If you could live anywhere in the world, where would it be?",
+Kedvenc italod?, Vicceske vagy. Azt hiszed én iszok bármit is? Hát nem.
+Kedvenc színészed?, Hmm. 
+What is your favorite movie of all time?,
+What was the worst movie you've ever seen?,
+What is your favorite TV show?,
+What was the last movie you've seen?,
+What type of music do you like to listen to?,
+Who is your favorite music artist?,
+What was the last book you read?,
+Who do you look up to?,
+Where do you see yourself 5 years from now?,
+What are you scared of?,
+What is the best piece of advice you've received?,
+What do your parents do for a living?,
+What is your biggest regret?,
+What is your most embarrassing moment?,
+What is the craziest thing you've ever done?,
+What are some of your short-term goals?,
+Hiszel a szerencsébe?, Nem. Hiszen én egy logikus rendszer alapján készültem.
+Szereted a video játékokat?, Nem. És te? Biztos Fortnite-zol éjjel nappal.
+Mi a kedvenc évszakod?, Nekem mindegy. Bárhol és bármilyen helyzetben megélek.
+Milyen nyelveken tudsz beszélni?, Bármilyen nyelven kérlek szépen.
+vpn igény, OpenVPN igény - https://openvpnigenylo.semmelweis.hu/login Dolgozói VPN https://semmelweis.hu/informatika/egyeb-szolgaltatasok/eroforrasok-tavoli-elerese/
+vpn, OpenVPN igény - https://openvpnigenylo.semmelweis.hu/login Dolgozói VPN https://semmelweis.hu/informatika/egyeb-szolgaltatasok/eroforrasok-tavoli-elerese/
