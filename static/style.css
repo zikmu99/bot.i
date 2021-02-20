@@ -1,108 +1,92 @@
-body { 
-    font-family: 'Montserrat';
-    background-color: #000; 
-    text-align: center;    
-}  
+html,
+body {
+  height: 100%;
+}
+
+body {
+  
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  line-height: 1.3;
+  overflow: hidden;
+}
+
+.chat-box{
+  display: none;
+}
+
+.chatbox-frame{
     
-
-
-h1 {
-    color: rgb(0, 0, 0);
-    margin-bottom: 0;
-    margin-top: 0;
-    text-align: center;
-    font-size: 40px;
-    margin-right: 10px;
-}
-
-h2 {
-    color: rgb(0, 0, 0);
-    margin-bottom: 0;
-    margin-top: 0;
-    text-align: center;
-    font-size: 20px;
-}
-
-h3 {
-    color: black;
-    font-size: 20px;
-    margin-top: 3px;
-    text-align: center;
-}
-
-h4 {
-    color: rgb(0, 0, 0);
-    margin-bottom: 0;
-    margin-top: 0;
-    text-align: center;
-    font-size: 20px;
-}
-
-
-.messagecontainer {
-    display: flex;
-    flex-flow: column wrap;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 770px;
-    margin: 50px 350px;
-    height: calc(100% - 50px);
-    border: var(--border);
-    border-radius: 5px;
-    background: var(--msger-bg);
-    box-shadow: 0 15px 15px -5px rgba(0 0 0 / 73%);
-    overflow-x: hidden;
-    overflow-y: scroll;
-
-
-   /* width: 70%;
-    max-width: 600px;
-    margin-right: auto;
-    margin-top: 10px;
-    margin-left: auto;
-    padding: 6px;
-    -webkit-border-radius: 10px;
+    margin: auto;
+    width:50vh ;
+    max-height: 85vh;
+    z-index: 2;
+    overflow: hidden;
+    box-shadow: 0 5px 30px rgba(0, 0, 0, .2);
+    background: white;
     border-radius: 10px;
-    border: 1px solid black;*/
+    border: 1px black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    
+  }
+.chatbox-header{
+    position: relative;
+    z-index: 2;
+    color: black;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+}
+.header-icon{
+  min-width: 30px;
+}
+#buttonClose{
+  cursor: pointer;
+  padding-top: 5px;
+}
+.test-text{
+  margin: 0;
 }
 
-#chatbox {
-    margin-left: auto;
-    margin-right: 100px;
-    width: 101%;
-    margin-top: 10px;
+ 
+  #chatbox {
+    height: 500px;
+    overflow: auto;
+    padding: 10px;
+    background-color: lightsteelblue;
+    border-top: 1px solid lightgray;
 
-}
-
-#typing {
-    margin-left: 1px;
-    width: 100%;
-    margin-top: 10px;
-    visibility: hidden;
 }
 
 #userInput {
     background-color: #fff0;
-    margin-left: auto;
-    margin-right: 75px  ;
-    width: 100%;
-    margin-top: 23px;
-    -webkit-border-radius: 10px;
-    border-radius: 30px;
-    padding: 5px;
+    display: flex;
+    padding: 10px;
+    border-top: 1px solid lightgray;
 }
 
 #textInput {
     width: 80%;
     border: none;
-    border-bottom: 2px solid #002896;
     font-family: 'Montserrat';
     font-size: 18px;
     border-radius: 5px;
     margin-right: 18px;
 }
-
+#textinput:focus{
+    outline: none;
+}
+input:focus{
+    outline: none;
+}
 #buttonInput {
+    width:35px;
+  height:35px;
+  cursor: pointer;
+    /*
     padding: 6px;
     font-family: 'Montserrat';
     font-size: 15px;
@@ -110,6 +94,7 @@ h4 {
     color: #ffffff;
     background-color: #2433b8;
     margin-right: 48px;
+    */
 }
 
 .chatSuggest {
@@ -129,13 +114,12 @@ h4 {
     font-family: 'Montserrat Bold';
     font-size: 18px;
     text-align: center;
-    line-height: 41px;
+    line-height: 28px;
     background-color: #ffffff;
     padding: 10px;
     -webkit-border-radius: 10px;
     border-radius: 30px;
-    margin-right: 5%;
-    margin-left: 3%;
+    margin-left: 15%;
     margin-top: 15px;
     border-bottom-right-radius: 1px;
 }
@@ -144,32 +128,124 @@ h4 {
     background-color: #242281ec;
     color: rgb(255, 255, 255);
     font-family: 'Montserrat';
-    font-size: 17px;
+    font-size: 18px;
     text-align: center;
-    line-height: 20px;
-    -webkit-border-radius: 10px;
+    line-height: 28px;
+    max-width: 275px;
     border-radius: 30px;
-    padding: 14px;
-    min-height: 68px;
-    margin-right: 5%;
-    margin-left: 70px;
-    margin-bottom: 2px;
-    margin-top: 10px;
     border-bottom-left-radius: 1px;
+    padding: 10px;
+
 }
 
 .avatar {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    max-width: 78px;
-    max-height: 96px;
+    max-width: 25px;
+    max-height: 90px;
     margin-left: -72px;
     margin: 7px;
 }
-
+/*
 #tidbit {
     position: absolute;
     bottom: 0;
     right: 0;
     width: 300px;
-}
+}*/
+
+
+.chat-bubble {
+    background-color:#E6F8F1;
+    padding:16px 28px;
+    -webkit-border-radius: 20px;
+    -webkit-border-bottom-left-radius: 2px;
+    -moz-border-radius: 20px;
+    -moz-border-radius-bottomleft: 2px;
+    border-radius: 20px;
+    border-bottom-left-radius: 2px;
+    display:inline-block;
+  }
+  .typing {
+    align-items: center;
+    display: flex;
+    height: 17px;
+  }
+  .typing .dot {
+    animation: mercuryTypingAnimation 1.8s infinite ease-in-out;
+    background-color: #6CAD96 ; 
+    border-radius: 50%;
+    height: 7px;
+    margin-right: 4px;
+    vertical-align: middle;
+    width: 7px;
+    display: inline-block;
+  }
+  .typing .dot:nth-child(1) {
+    animation-delay: 200ms;
+  }
+  .typing .dot:nth-child(2) {
+    animation-delay: 300ms;
+  }
+  .typing .dot:nth-child(3) {
+    animation-delay: 400ms;
+  }
+  .typing .dot:last-child {
+    margin-right: 0;
+  }
+  
+  @keyframes mercuryTypingAnimation {
+    0% {
+      transform: translateY(0px);
+      background-color:#6CAD96; 
+    }
+    28% {
+      transform: translateY(-7px);
+      background-color:#9ECAB9; 
+    }
+    44% {
+      transform: translateY(0px);
+      background-color: #B5D9CB;
+    }
+  }
+
+
+
+
+
+
+
+  #chat-circle {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    background: #ffffff;
+    width: 80px;
+    height: 80px;  
+    border-radius: 50%;
+    color: white;
+    padding: 28px;
+    cursor: pointer;
+    box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.6), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  }
+  
+  .btn#my-btn {
+       background: white;
+      padding-top: 13px;
+      padding-bottom: 12px;
+      border-radius: 45px;
+      padding-right: 40px;
+      padding-left: 40px;
+      color: #5865C3;
+  }
+  #chat-overlay {
+      background: rgba(255,255,255,0.1);
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border-radius: 50%;
+      display: none;
+  }
+  
