@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="hun" dir="ltr">
+
+  <head>
+    <title>I.T. - BOT.I</title>
+    <link rel="icon" type="image/png" href="/static/avatar.png">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+  </head>
+
+
+
+  <body background="/static/feher_bg.png" onload="getFirstResponse('Hello');">
+
+
+    <div class="box">
+
+    
+      <div class="messagetitle">
+        <h1  >Informatikai Igazgatóság</h1>
+        <h2>Semmelweis Egyetem</h2>
+        <h4>(Tesztelés alatt...)</h4>
+      </div>
+    
+      <div class="messagecontainer">
+
+       
+
+        <div id="chatbox">
+          <!--Nothing here in the beginning-->
+        </div>
+
+        <div id="typing">
+          <tr><img class="avatar" src="/static/avatar.png" align="left" style="margin: 7px;" style="margin-top: 25px;"><td valign="top"><img src="/static/typingnow.gif" padding:"18px";
+      style="margin-left:-15"></td></tr></table>
+        </div>
+
+        <div id="userInput">
+          <input id="textInput" type="text" name="msg" placeholder="Üzenet" autofocus>
+          <input id="buttonInput" type="submit" value="Küldés">
+        </div>
+    </div>
+
+  </div>
+
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="/static/function.js"></script>
+  </body>
+
+</html>
