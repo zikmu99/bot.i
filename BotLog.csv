@@ -1514,3 +1514,241 @@ Hello,IRO kisokos. Miben tudok segíteni? Kérlek válassz! 1. IRO. 2. Szolgáltatás
 Hello,IRO kisokos. Miben tudok segíteni? Kérlek válassz! 1. IRO. 2. Szolgáltatás fejlesztés. 3. Hálózat. 4. Szerver.
 szia,Miben tudok segíteni
 Hello,IRO kisokos. Miben tudok segíteni? Kérlek válassz! 1. IRO. 2. Szolgáltatás fejlesztés. 3. Hálózat. 4. Szerver.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,{'Remek. Az én nevem Boti. Elkérhetem a novell ID-at? Pld': 'ID - kisrub.'}
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Remek. Az én nevem Boti. Elkérhetem a novell ID-at? Pld ID - kisrub.
+ID csingok,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+szia,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Remek. Az én nevem Boti. Elkérhetem a novell ID-at? Pld ID - kisrub.
+ID lajos,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Id,Rendben van. Milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+szia,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+206701022,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat. Pld 206701022
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat. Pld 206701022
+Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+Tel 06123456789,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+0612345679 Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+0613245679Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+06 Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Én Boti vagyok. Kérlek ird le a novell ID-at. Pld kisrub ID.
+kisjalosk id,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+kaijs ID,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+16 Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Én Boti vagyok. Kérlek ird le a novell ID-at. Pld kisrub ID.
+lajos ID,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+206701022 Tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+0,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+0tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Rendben van. Én Boti vagyok. Kérlek ird le a novell ID-at. Pld n-kisrub ID.
+n lajos id,Köszi! Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+n gaza id,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+n tibokr id,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06208256214 tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+206701022 tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+0618254657 tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,{'Rendben van. Én Boti vagyok. Kérlek ird le a novell ID-at. Pld novell': 'kisrub.'}
+novell lajosgeza,Köszi! Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+novell gazlajos,Köszi! Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+novell köcsög,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+novell kajkdtz,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+novell lajos,Köszi! Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+novell gaza,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+novell geza,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+lajos,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,{'Rendben van. Én Boti vagyok. Kérlek ird le a novell ID-at. Pld novell': 'kisrub.'}
+novell piroska,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat. Pld 206701022 Tel
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 206701022 Tel
+206701088 Tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+0620671088 Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+06206701055 TEl,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06206701055,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06206701055  Tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06206701088 Tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+0618254651 Tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+tel,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igem,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+06208884652 tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06206701022tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igem,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+06206701022tel,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+lagylajos@,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+nagylajos @,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Hm...Úgy látszik ehhez helyi segítseg kell. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Hm...Úgy látszik ehhez helyi segítseg kell. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+206701022,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+4564651321,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+szia,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Hm...Úgy látszik ehhez helyi segítseg kell. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+2,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+06,Szuper. Nemsokára felvesszük veled a kapcsolatot.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+hh,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+igen,Szóval milyen problémád van? 1. Hálózati hiba. 2. GW/Novell. 3. Hardware. 4. Más.
+1,Kérlek tõ mondatban írd le a hibát. Pld - nincs internet.
+nincs net,Köszönöm. Hm...Úgy látszik ehhez helyi segítseg kell. Kérlek írd le a telefonszámodat és felvesszük veled a kapcsolatot. Pld 06206701022 Tel
+06206701022,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Szia. Ez itt az IT Support! Szeretnél hibát bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? 1. Hardver. 2. Szoftver. 3. Hálózat. 4. Novell. 5. Egyéb.
+1,Szóval hardver hiba. Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot. Pld 00PC - PC hiba lista.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+szia,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igrn,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+nincs internet,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+email igény,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+email igény,Ezen az oldalon tudsz új emailt igényelni https://emailigenylo.semmelweis.hu/login
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+jelszó igény,Ezen az email címen tudsz jelszót igényelni novell_it@semmelweis-univ.hu
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+gyik,A gyakren feltett kérdéseket itt találod.
+wb,Egyetemi szoftverek a campus.sote.hu oldalon találsz.
+itrend,IT rendeléssel kapcsolatosan Kaszás Sándor foglalkozik.
+ib,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+1b,Fontos weboldalak www.semmelweis.hu/informatika
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+gemail,https://emailigenylo.semmelweis.hu/login
+gjelszo,novell_it@semmelweis-univ.hu
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+gyik,A gyakren feltett kérdéseket itt találod.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+szia,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+igen,Rendben van. Milyen hibát szeretnél bejelenteni? Bal oldalt találsz egy listát amiben ki tudod választani a megfelelõ hibakódot.
+gjelszo,novell_it@semmelweis-univ.hu
+gnovell,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+gemail,https://emailigenylo.semmelweis.hu/login
+wb,Egyetemi szoftverek a campus.sote.hu oldalon találsz.
+gyikú,A gyakren feltett kérdéseket itt találod.
+gyik,A gyakren feltett kérdéseket itt találod.
+itrend,IT rendeléssel kapcsolatosan Kaszás Sándor foglalkozik.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+gemail,https://emailigenylo.semmelweis.hu/login
+itrend,IT rendeléssel kapcsolatosan Kaszás Sándor foglalkozik.
+wb,Egyetemi szoftverek a campus.sote.hu oldalon találsz.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+Hello,Üdv. Ez itt IT Support. Miben tudok segíteni? Hibát szeretnél bejelenteni? Igen/Nem.
+gemail,https://emailigenylo.semmelweis.hu/login
+Hello,Szia BOT.I vagyok egy mesterseges inteligencia. Kuld el a help szot.
+Hello,Szia BOT.I vagyok egy mesterseges inteligencia. Kuld el a help szot.
+segits,Mar is! Mond mi a baj?
+Hello,Szia BOT.I vagyok egy mesterseges inteligencia. Kuld el a help szot.
+help,Ne aggodj egyutt megoldjuk nagyon hamar a problemat. Hardver vagy szoftver hibad van?
+hardver,Ertem. Azon belul PC Nyomtato vagy Laptop?
